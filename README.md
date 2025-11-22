@@ -1,4 +1,4 @@
-![image alt](https://github.com/nizarelidrysy/nizarelidrysy/blob/b995c79415b02993b9955e4cc530a042d70869c2/v2.png)
+![image alt](https://github.com/nizarelidrysy/nizarelidrysy/blob/b995c79415b02993b9955e4cc530a042d70869c2/Banner.png)
 
 # 👨‍💻 Nizar EL IDRYSY
 
@@ -20,9 +20,9 @@ Currently a **3rd Year IIR Student** at the **École Marocaine des Sciences de l
 
 ## 📫 Contact Me
 
-* 📞 **Phone:** +212 6 18 29 77 30
+* 📞 **Phone:** [+212 6 18 29 77 30](https://api.whatsapp.com/send?phone=212618297730)
 * 📧 **Email:** [Nizar.Elidrysy@gmail.com](mailto:Nizar.Elidrysy@gmail.com)
-* 📍 **Location:** Tanger, Maroc
+* 📍 **Location:** Tangier, Morocco
 * 👔 **LinkedIn:** [linkedin.com/in/nizar-elidrysy](https://linkedin.com/in/nizar-elidrysy)
 
 ---
