@@ -1,4 +1,4 @@
-![image alt](https://github.com/nizarelidrysy/nizarelidrysy/blob/b995c79415b02993b9955e4cc530a042d70869c2/Banner.png)
+![image alt](https://github.com/nizarelidrysy/nizarelidrysy/blob/991ad193727c74d82bc6f2635ec5a307de289f1b/Banner.png)
 
 # 👨‍💻 Nizar EL IDRYSY
 
