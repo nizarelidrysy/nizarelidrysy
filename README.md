@@ -1,6 +1,6 @@
 ![image alt](https://github.com/nizarelidrysy/nizarelidrysy/blob/b995c79415b02993b9955e4cc530a042d70869c2/v2.png)
 
-# 👨‍💻 NIZAR EL IDRYSY
+# 👨‍💻 Nizar EL IDRYSY
 
 **Engineering Student | System Architecture & Cybersecurity Enthusiast**
 
@@ -24,3 +24,5 @@ Currently a **3rd Year IIR Student** at the **École Marocaine des Sciences de l
 * 📧 **Email:** [Nizar.Elidrysy@gmail.com](mailto:Nizar.Elidrysy@gmail.com)
 * 📍 **Location:** Tanger, Maroc
 * 👔 **LinkedIn:** [linkedin.com/in/nizar-elidrysy](https://linkedin.com/in/nizar-elidrysy)
+
+---
