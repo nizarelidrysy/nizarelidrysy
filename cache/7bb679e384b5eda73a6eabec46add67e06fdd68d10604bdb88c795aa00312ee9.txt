@@ -1,10 +1,10 @@
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
+This is a cache of all of the repositories I own as Nizar, have contributed to, or am a member of.
+
+repository (hashed)  total commits  my commits  LOC added by me  LOC deleted by me
+         \                \                \           \_____________  \
+          \                \                \______________________  \  \
+           \                \___________________________________   \  \  \
+____________\___________________________________________________\___\__\__\_______
 1d24e89d03d4512b109dd4d5ff79ea9133ba225db0dc6fd9fc73a5d6a7cc0368 41 40 30824 17362
 7f70ccf02d5bcc7574a4f9de18971c075c9dc4eb5239408d2a864547b2dd4e5e 25 23 1096 278
 daca4d99bfea9530c9aebf4ebf75d37046b6a528d613ff0585a545bc3b899ff9 33 33 8431 4865
