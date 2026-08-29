@@ -6,9 +6,7 @@
 
 ---
 
-**Computer Science & Network Engineering Student @ EMSI • Ambassador @ Career Center EMSI • Network Architecture & Infrastructure Analyst @ SEBN-MA**
-
-Currently a **3rd Year IIR Student** at the **École Marocaine des Sciences de l'Ingénieur (EMSI)**. I am passionate about public speaking, systems architecture and AI.
+**CS & Network Engineering Student @ EMSI - Ambassador @ Career Center EMSI**
 
 ---
 
@@ -26,9 +24,9 @@ Currently a **3rd Year IIR Student** at the **École Marocaine des Sciences de l
 
 # Contact Me
 
-* **Location:** Tangier, Morocco (Open Geographically)
+* **Location:** Morocco (Open Geographically)
 * **Phone:** [+212618297730](https://api.whatsapp.com/send?phone=212618297730)
-* **Email:** [nizar.elidrysy@emsi-edu.ma](mailto:nizar.elidrysy@emsi-edu.ma)
+* **Email:** [nizar.elidrysy@emsi-edu.ma](mailto:nizar.elidrysy@emsi-edu.ma) | [nizar.elidrysy@gmail.com](mailto:nizar.elidrysy@gmail.com)
 * **LinkedIn:** [linkedin.com/in/nizarelidrysy](https://linkedin.com/in/nizarelidrysy)
 * **Portfolio (Google sites):** [sites.google.com/nizarelidrysy](https://sites.google.com/view/nizarelidrysy/home)
 * **Portfolio (GitHub):** [nizarelidrysy.github.io/Portfolio-Website](https://nizarelidrysy.github.io/Portfolio-Website/)
