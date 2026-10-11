@@ -6,7 +6,7 @@
 
 ---
 
-**CS & Network Engineering Student @ EMSI - Ambassador @ Career Center EMSI**
+**CS & Network Engineering Student @ EMSI**
 
 ---
 
