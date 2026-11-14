@@ -6,7 +6,7 @@
 
 ---
 
-**AI & Data Science Engineering Student @ EMSI**
+# AI & Data Science Engineering Student at EMSI
 
 ---
 
