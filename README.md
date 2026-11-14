@@ -8,8 +8,6 @@
 
 # AI & Data Science Engineering Student at EMSI
 
----
-
 # Technical Skills
 
 | Category | Technologies & Tools |
